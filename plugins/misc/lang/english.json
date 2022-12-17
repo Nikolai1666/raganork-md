@@ -1,14 +1,14 @@
 {
     "STRINGS": {
         "converters": {
-        "STICKER_DESC":"Creates stickers. Reply to media.",
-        "STICKER_NEED_REPLY":"_Reply to a photo or a short video!_",
-        "MP3_DESC":"Converts replied media to mp3 format",
-        "MP3_NEED_REPLY:":"_Reply to an audio or video!_",
-        "BASS_DESC:":"Bass boosts audio. .bass 20",
-        "BASS_NEED_REPLY:":"_Reply to an audio!_",
-        "PHOTO_DESC":"Converts non animated stickers to photo",
-        "PHOTO_NEED_REPLY":"_Reply to a non animated sticker!_"
+        "STICKER_DESC" : " Создает стикеры. Ответить на медиа. " ,
+        "STICKER_NEED_REPLY" : " _Ответить на фото или короткое видео!_ " ,
+        "MP3_DESC" : " Конвертирует отвеченный медиафайл в формат mp3 " ,
+        "MP3_NEED_REPLY:" : " _Ответить на аудио или видео!_ " ,
+        "BASS_DESC:" : " Басы усиливают звук. .bass 20 " ,
+        "BASS_NEED_REPLY:" : " _Ответить на аудио!_ " ,
+        "PHOTO_DESC" : " Преобразует неанимированные наклейки в фото " ,
+        "PHOTO_NEED_REPLY" : " _Ответить на неанимированную наклейку!_ "
         },
         "external_plugin": {
             "INSTALL_DESC": "Installs external plugins.",
