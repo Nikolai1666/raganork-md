@@ -480,7 +480,7 @@ if (!message.reply_message.image) {
    return await message.sendReply({url:image},"image")
 }
 }));
-cmd({
+Module({
             pattern: "profile",
             desc: "Shows profile of user.",
             category: "group",
